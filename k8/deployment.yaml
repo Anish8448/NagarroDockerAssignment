@@ -18,4 +18,4 @@ spec:
       - name: docker-assignment
         image: anishkumar03/dockerassignmentimg:v1
         ports:
-        - containerPort: 8005
+        - containerPort: 8081
